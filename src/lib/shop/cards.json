@@ -1,0 +1,20 @@
+[
+    {
+        "name": "debug_card_1",
+        "displayName": "Debug Card 1",
+        "front": "debug_card_front_1",
+        "back": "debug_card_back_1"
+    },
+    {
+        "name": "debug_card_2",
+        "displayName": "Debug Card 2",
+        "front": "debug_card_front_2",
+        "back": "debug_card_back_2"
+    },
+    {
+        "name": "debug_card_3",
+        "displayName": "Debug Card 3",
+        "front": "debug_card_front_3",
+        "back": "debug_card_back_3"
+    }
+]

@@ -1,0 +1,6 @@
+{
+    "boat_chain": ["wood_plank", "wood_bundle", "boat", "row_boat", "sail_boat", "motor_boat"],
+    "arbor_chain": ["seeds", "sapling", "tree_young", "tree_small", "tree", "tree_fruiting"],
+    "lens_chain": ["lens", "magnify_glass", "binoculars", "telescope", "mounted_telescope", "high_tech_telescope"],
+    "tools_chain": ["wrench", "crescent_wrench", "crowbar", "shovel", "wheelbarrow", "lawn_mower"]
+}

@@ -1,0 +1,47 @@
+{
+    "name": "template-svelte",
+    "description": "A Phaser 3 project template that demonstrates Svelte communication and uses Vite for bundling.",
+    "version": "1.1.2",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/phaserjs/template-svelte.git"
+    },
+    "author": "Phaser Studio <support@phaser.io> (https://phaser.io/)",
+    "license": "MIT",
+    "licenseUrl": "http://www.opensource.org/licenses/mit-license.php",
+    "bugs": {
+        "url": "https://github.com/phaserjs/template-svelte/issues"
+    },
+    "homepage": "https://github.com/phaserjs/template-svelte#readme",
+    "keywords": [
+        "phaser",
+        "phaser3",
+        "svelte",
+        "vite"
+    ],
+    "scripts": {
+        "dev": "node log.js dev & vite --config vite/config.dev.mjs",
+        "check": "svelte-kit sync && svelte-check --tsconfig ./jsconfig.json",
+        "check:watch": "svelte-kit sync && svelte-check --tsconfig ./jsconfig.json --watch",
+        "build": "vite build --config vite/config.prod.mjs",
+        "dev-nolog": "vite --config vite/config.dev.mjs",
+        "preview": "vite preview --outDir public"
+    },
+    "devDependencies": {
+        "@sveltejs/adapter-auto": "^3.2.0",
+        "@sveltejs/adapter-static": "^3.0.1",
+        "@sveltejs/kit": "^2.5.8",
+        "@sveltejs/vite-plugin-svelte": "^3.1.0",
+        "svelte": "^4.2.17",
+        "svelte-check": "^4.0.2",
+        "terser": "^5.31.0",
+        "tslib": "^2.6.2",
+        "typescript": "^5.4.5",
+        "vite": "^5.2.11"
+    },
+    "type": "module",
+    "dependencies": {
+        "@sveltejs/adapter-vercel": "^5.5.2",
+        "phaser": "^3.87.0"
+    }
+}

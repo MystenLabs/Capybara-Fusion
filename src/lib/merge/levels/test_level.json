@@ -1,0 +1,15 @@
+{
+    "name": "test_level",
+    "grid": [
+        ["wood_bundle", "tree"      , "seeds"     , "tree"      , "sail_boat"  , "wood_bundle"],
+        [null         , "wood_plank", "wood_plank", null        , "boat"       , "tree_small" ],
+        ["seeds"      , "sapling"   , null        , null        , null         , "wood_bundle"],
+        [null         , "wood_plank", "wood_plank", null        , null         , null         ],
+        ["tree_small" , "tree"      , "row_boat"  , null        , null         , null         ],
+        [null         , null        , "wood_plank", "wood_plank", null         , null         ],
+        [null         , null        , "tree_small", null        , null         , null         ],
+        ["row_boat"   , "wood_plank", null        , "wood_plank", "wood_bundle", "wood_bundle"],
+        ["row_boat"   , "tree"      , null        , "tree_small", null         , "wood_bundle"]
+    ],
+    "allowedRecipes": ["sapling_recipe", "tree_small_recipe", "tree_recipe", "tree_large_recipe", "tree_fruiting_recipe", "wood_bundle_recipe", "boat_recipe", "row_boat_recipe", "sail_boat_recipe", "motor_boat_recipe"]
+}

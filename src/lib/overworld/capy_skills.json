@@ -1,0 +1,38 @@
+[
+  {
+    "skillId": 0,
+    "displayName": "Strength",
+    "pairedLocation": "Windmill",
+    "maxLevel": 5
+  },
+  {
+    "skillId": 1,
+    "displayName": "Cooking",
+    "pairedLocation": "Shop",
+    "maxLevel": 5
+  },
+  {
+    "skillId": 2,
+    "displayName": "Gardening",
+    "pairedLocation": "Greenhouse",
+    "maxLevel": 5
+  },
+  {
+    "skillId": 1000,
+    "displayName": "Dexterity",
+    "pairedLocation": null,
+    "maxLevel": 5
+  },
+  {
+    "skillId": 1001,
+    "displayName": "Charm",
+    "pairedLocation": null,
+    "maxLevel": 5
+  },
+  {
+    "skillId": 1002,
+    "displayName": "Efficiency",
+    "pairedLocation": null,
+    "maxLevel": 5
+  }
+]

@@ -1,0 +1,170 @@
+[
+    {
+        "name": "item_1",
+        "displayName": "Item 1",
+        "icon": "debug_item_1"
+    },
+    {
+        "name": "item_2",
+        "displayName": "Item 2",
+        "icon": "debug_item_2"
+    },
+    {
+        "name": "item_3",
+        "displayName": "Item 3",
+        "icon": "debug_item_3"
+    },
+    {
+        "name": "seeds",
+        "displayName": "Seeds",
+        "icon": "seeds_item",
+        "chain": "arbor_chain"
+    },
+    {
+        "name": "sapling",
+        "displayName": "Sapling",
+        "icon": "sapling_item",
+        "chain": "arbor_chain"
+    },
+    {
+        "name": "tree_young",
+        "displayName": "Young Tree",
+        "icon": "tree_young_item",
+        "chain": "arbor_chain"
+    },
+    {
+        "name": "tree_small",
+        "displayName": "Small Tree",
+        "icon": "tree_small_item",
+        "chain": "arbor_chain"
+    },
+    {
+        "name": "tree",
+        "displayName": "Tree",
+        "icon": "tree_item",
+        "chain": "arbor_chain"
+    },
+    {
+        "name": "tree_fruiting",
+        "displayName": "Fruit Tree",
+        "icon": "tree_fruiting_item",
+        "major": true,
+        "chain": "arbor_chain"
+    },
+    {
+        "name": "wood_plank",
+        "displayName": "Wood Plank",
+        "icon": "wood_plank_item",
+        "chain": "boat_chain"
+    },
+    {
+        "name": "wood_bundle",
+        "displayName": "Wood Bundle",
+        "icon": "wood_bundle_item",
+        "chain": "boat_chain"
+    },
+    {
+        "name": "boat",
+        "displayName": "Boat",
+        "icon": "boat_item",
+        "chain": "boat_chain"
+    },
+    {
+        "name": "row_boat",
+        "displayName": "Row Boat",
+        "icon": "row_boat_item",
+        "chain": "boat_chain"
+    },
+    {
+        "name": "sail_boat",
+        "displayName": "Sail Boat",
+        "icon": "sail_boat_item",
+        "chain": "boat_chain"
+    },
+    {
+        "name": "motor_boat",
+        "displayName": "Motor Boat",
+        "icon": "motor_boat_item",
+        "major": true,
+        "chain": "boat_chain"
+    },
+    {
+        "name": "lens",
+        "displayName": "Lens",
+        "icon": "lens_item",
+        "chain": "lens_chain"
+    },
+    {
+        "name": "magnify_glass",
+        "displayName": "Magnifying Glass",
+        "icon": "magnify_glass_item",
+        "chain": "lens_chain"
+    },
+    {
+        "name": "binoculars",
+        "displayName": "Binoculars",
+        "icon": "binoculars_item",
+        "chain": "lens_chain"
+    },
+    {
+        "name": "telescope",
+        "displayName": "Spyglass",
+        "icon": "telescope_item",
+        "chain": "lens_chain"
+    },
+    {
+        "name": "mounted_telescope",
+        "displayName": "Telescope",
+        "icon": "mounted_telescope_item",
+        "chain": "lens_chain"
+    },
+    {
+        "name": "high_tech_telescope",
+        "displayName": "Starscope",
+        "icon": "high_tech_telescope_item",
+        "major": true,
+        "chain": "lens_chain"
+    },
+    {
+        "name": "wrench",
+        "displayName": "Wrench",
+        "icon": "wrench_item",
+        "chain": "tools_chain"
+    },
+    {
+        "name": "crescent_wrench",
+        "displayName": "Crescent Wrench",
+        "icon": "crescent_wrench_item",
+        "chain": "tools_chain"
+    },
+    {
+        "name": "crowbar",
+        "displayName": "Crowbar",
+        "icon": "crowbar_item",
+        "chain": "tools_chain"
+    },
+    {
+        "name": "shovel",
+        "displayName": "Shovel",
+        "icon": "shovel_item",
+        "chain": "tools_chain"
+    },
+    {
+        "name": "wheelbarrow",
+        "displayName": "Cart",
+        "icon": "wheelbarrow_item",
+        "chain": "tools_chain"
+    },
+    {
+        "name": "lawn_mower",
+        "displayName": "Mower",
+        "icon": "lawn_mower_item",
+        "major": true,
+        "chain": "tools_chain"
+    },
+    {
+        "name": "scarf",
+        "displayName": "Scarf",
+        "icon": "scarf_item"
+    }
+]

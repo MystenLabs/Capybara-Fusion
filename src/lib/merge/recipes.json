@@ -1,0 +1,134 @@
+[
+    {
+        "name": "item_2_recipe",
+        "draggedItem": "item_1",
+        "targetItem": "item_1",
+        "resultItem": "item_2"
+    },
+    {
+        "name": "item_3_recipe",
+        "draggedItem": "item_2",
+        "targetItem": "item_2",
+        "resultItem": "item_3"
+    },
+    {
+        "name": "sapling_recipe",
+        "draggedItem": "seeds",
+        "targetItem": "seeds",
+        "resultItem": "sapling"
+    },
+    {
+        "name": "tree_young_recipe",
+        "draggedItem": "sapling",
+        "targetItem": "sapling",
+        "resultItem": "tree_young"
+    },
+    {
+        "name": "tree_small_recipe",
+        "draggedItem": "tree_young",
+        "targetItem": "tree_young",
+        "resultItem": "tree_small"
+    },
+    {
+        "name": "tree_recipe",
+        "draggedItem": "tree_small",
+        "targetItem": "tree_small",
+        "resultItem": "tree"
+    },
+    {
+        "name": "tree_fruiting_recipe",
+        "draggedItem": "tree",
+        "targetItem": "tree",
+        "resultItem": "tree_fruiting"
+    },
+    {
+        "name": "wood_bundle_recipe",
+        "draggedItem": "wood_plank",
+        "targetItem": "wood_plank",
+        "resultItem": "wood_bundle"
+    },
+    {
+        "name": "boat_recipe",
+        "draggedItem": "wood_bundle",
+        "targetItem": "wood_bundle",
+        "resultItem": "boat"
+    },
+    {
+        "name": "row_boat_recipe",
+        "draggedItem": "boat",
+        "targetItem": "boat",
+        "resultItem": "row_boat"
+    },
+    {
+        "name": "sail_boat_recipe",
+        "draggedItem": "row_boat",
+        "targetItem": "row_boat",
+        "resultItem": "sail_boat"
+    },
+    {
+        "name": "motor_boat_recipe",
+        "draggedItem": "sail_boat",
+        "targetItem": "sail_boat",
+        "resultItem": "motor_boat"
+    },
+    {
+        "name": "magnify_glass_recipe",
+        "draggedItem": "lens",
+        "targetItem": "lens",
+        "resultItem": "magnify_glass"
+    },
+    {
+        "name": "binoculars_recipe",
+        "draggedItem": "magnify_glass",
+        "targetItem": "magnify_glass",
+        "resultItem": "binoculars"
+    },
+    {
+        "name": "telescope_recipe",
+        "draggedItem": "binoculars",
+        "targetItem": "binoculars",
+        "resultItem": "telescope"
+    },
+    {
+        "name": "mounted_telescope_recipe",
+        "draggedItem": "telescope",
+        "targetItem": "telescope",
+        "resultItem": "mounted_telescope"
+    },
+    {
+        "name": "high_tech_telescope_recipe",
+        "draggedItem": "mounted_telescope",
+        "targetItem": "mounted_telescope",
+        "resultItem": "high_tech_telescope"
+    },
+    {
+        "name": "crescent_wrench_recipe",
+        "draggedItem": "wrench",
+        "targetItem": "wrench",
+        "resultItem": "crescent_wrench"
+    },
+    {
+        "name": "crowbar_recipe",
+        "draggedItem": "crescent_wrench",
+        "targetItem": "crescent_wrench",
+        "resultItem": "crowbar"
+    },
+    {
+        "name": "shovel_recipe",
+        "draggedItem": "crowbar",
+        "targetItem": "crowbar",
+        "resultItem": "shovel"
+    },
+    {
+        "name": "wheelbarrow_recipe",
+        "draggedItem": "shovel",
+        "targetItem": "shovel",
+        "resultItem": "wheelbarrow"
+    },
+    {
+        "name": "lawn_mower_recipe",
+        "draggedItem": "wheelbarrow",
+        "targetItem": "wheelbarrow",
+        "resultItem": "lawn_mower"
+    }
+]

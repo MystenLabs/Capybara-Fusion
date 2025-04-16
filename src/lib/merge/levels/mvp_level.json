@@ -1,0 +1,20 @@
+{
+    "name": "mvp_level",
+    "grid": [
+        ["tree_small"   , null           , null         , null         , "sapling"    , "wood_bundle"    ],
+        [null           , "tree_small"   , "sapling"    , null         , "motor_boat" , "tree_small"     ],
+        ["tree_fruiting", "binoculars"   , "wood_plank" , "wood_plank" , "tree"       , "wood_plank"     ],
+        [null           , null           , "wood_plank" , null         , "seeds"      , "magnify_glass"  ],
+        [null           , "sapling"      , "wood_bundle", null         , null         , "tree"           ],
+        ["boat"         , "tree"         , "wood_bundle", "tree_small" , "sapling"    , "tree"           ],
+        [null           , "magnify_glass", null         , "wrench"     , "sapling"    , "crescent_wrench"],
+        [null           , "telescope"    , "row_boat"   , "wrench"     , null         , null             ],
+        ["telescope"    , "sail_boat"    , "wood_bundle", "seeds"      , "telescope"  , "tree_small"     ]
+    ],
+    "allowedRecipes": [
+        "sapling_recipe", "tree_young_recipe", "tree_small_recipe", "tree_recipe", "tree_fruiting_recipe",
+        "wood_bundle_recipe", "boat_recipe", "row_boat_recipe", "sail_boat_recipe", "motor_boat_recipe",
+        "magnify_glass_recipe", "binoculars_recipe", "telescope_recipe", "mounted_telescope_recipe", "high_tech_telescope_recipe",
+        "crescent_wrench_recipe", "crowbar_recipe", "shovel_recipe", "wheelbarrow_recipe", "lawn_mower_recipe"
+    ]
+}

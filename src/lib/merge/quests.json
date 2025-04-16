@@ -1,0 +1,49 @@
+[
+    {
+        "name": "windmill_restoration",
+        "displayName": "Windmill Restoration",
+        "requirements": {
+            "row_boat": 1,
+            "crescent_wrench": 1
+        },
+        "allowedRecipes": [
+            "sapling_recipe", "tree_young_recipe", "tree_small_recipe", "tree_recipe", "tree_fruiting_recipe",
+            "wood_bundle_recipe", "boat_recipe", "row_boat_recipe",
+            "magnify_glass_recipe", "binoculars_recipe", "telescope_recipe", "mounted_telescope_recipe", "high_tech_telescope_recipe",
+            "crescent_wrench_recipe"
+        ],
+        "upgradeLocation": "windmill_2",
+        "nextQuest": "shop_restoration"
+    },
+    {
+        "name": "shop_restoration",
+        "displayName": "Bakery Restoration",
+        "requirements": {
+            "tree_fruiting": 3
+        },
+        "allowedRecipes": [
+            "sapling_recipe", "tree_young_recipe", "tree_small_recipe", "tree_recipe", "tree_fruiting_recipe",
+            "wood_bundle_recipe", "boat_recipe", "row_boat_recipe", "sail_boat_recipe", "motor_boat_recipe",
+            "magnify_glass_recipe", "binoculars_recipe", "telescope_recipe", "mounted_telescope_recipe", "high_tech_telescope_recipe",
+            "crescent_wrench_recipe", "crowbar_recipe", "shovel_recipe", "wheelbarrow_recipe", "lawn_mower_recipe"
+        ],
+        "upgradeLocation": "shop_2",
+        "nextQuest": "greenhouse_restoration"
+    },
+    {
+        "name": "greenhouse_restoration",
+        "displayName": "Greenhouse Restoration",
+        "requirements": {
+            "motor_boat": 2,
+            "binoculars": 2
+        },
+        "allowedRecipes": [
+            "sapling_recipe", "tree_young_recipe", "tree_small_recipe", "tree_recipe", "tree_fruiting_recipe",
+            "wood_bundle_recipe", "boat_recipe", "row_boat_recipe", "sail_boat_recipe", "motor_boat_recipe",
+            "magnify_glass_recipe", "binoculars_recipe", "telescope_recipe", "mounted_telescope_recipe", "high_tech_telescope_recipe",
+            "crescent_wrench_recipe", "crowbar_recipe", "shovel_recipe", "wheelbarrow_recipe", "lawn_mower_recipe"
+        ],
+        "upgradeLocation": "greenhouse_2",
+        "nextQuest": null
+    }
+]
